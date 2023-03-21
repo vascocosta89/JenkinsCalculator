@@ -3,7 +3,7 @@ package org.example;
 public class JenkinsCalculator {
 
     public int addNumbers(int numberOne, int numberTwo){
-        int result = numberOne+numberTwo
+        int result = numberOne+numberTwo;
         return result;
     }
 

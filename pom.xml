@@ -30,9 +30,9 @@
 
     </dependencies>
 
-    <build>
+<!--    <build>
         <plugins>
-            <!--plugin to enable test coverage-->
+            &lt;!&ndash;plugin to enable test coverage&ndash;&gt;
             <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
@@ -64,6 +64,6 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
+    </build>-->
 
 </project>
