@@ -2,5 +2,5 @@ projectKey=org.example:JenkinsCalculator
 serverUrl=http://localhost:9000
 serverVersion=9.9.0.65466
 dashboardUrl=http://localhost:9000/dashboard?id=org.example%3AJenkinsCalculator
-ceTaskId=AYcEsic46REw9M_MKQFt
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYcEsic46REw9M_MKQFt
+ceTaskId=AYcE3J_J6REw9M_MKQF1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYcE3J_J6REw9M_MKQF1
